@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 265250aba30f14c45b6b978dc0aa170d, type: 3}
+  m_Name: Challenge_1
+  m_EditorClassIdentifier: 
+  description: Sucessfully catch 5 fish in a row
+  unlockProgress: 100
+  isLocked: 0
+  isClaimed: 0
+  reward: {fileID: 21300000, guid: 7df3e8065515ab1469483a834ef0f41a, type: 3}
+  challengeID: 0
+  rodReward: 1
+  baitReward: 3

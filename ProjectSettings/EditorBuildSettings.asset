@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BeachFishing.unity
+    guid: f06e411b4f91e6d4a9ae81a0a663aaa0
+  - enabled: 1
+    path: Assets/Scenes/UpperCanada.unity
+    guid: 15469cbf9ddb98f4d915d24f57b3b6fc
+  - enabled: 1
+    path: Assets/Scenes/GhostHunt/GhostHuntMenu.unity
+    guid: 14ea3ba2f078ea847850fa7bcdf1b536
+  - enabled: 1
+    path: Assets/Scenes/GhostHunt/GhostHuntGame.unity
+    guid: 382e9e5e9baf89549a032a61226cec73
+  - enabled: 1
+    path: Assets/Scenes/Orchard Drops/OrchardDropsMainMenu.unity
+    guid: 51bea3df5017b0f41ac712f113e790d6
+  - enabled: 1
+    path: Assets/Scenes/Orchard Drops/OrchardDropsMinigame.unity
+    guid: 28cc39aa1571ed946b17f60e011a7e0a
+  - enabled: 1
+    path: Assets/Scenes/Orchard Drops/OrchardDropsLeaderboard.unity
+    guid: c9c0b31ee4806754488c4773b3337444
+  - enabled: 1
+    path: Assets/Scenes/Orchard Drops/OrchardDropsStats.unity
+    guid: 051ea34b894846c42a66c297afade870
+  - enabled: 1
+    path: Assets/Scenes/Orchard Drops/OrchardDropsStore.unity
+    guid: 86dfd17303557fb4aa3a09a35fcc0ee4
+  - enabled: 1
+    path: Assets/Scenes/Orchard Drops/OrchardDropsTutorial.unity
+    guid: b1e59933d4e21404d993fbb748f27383
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 3459424107a2c124180935bab0efede6
+  m_configObjects: {}

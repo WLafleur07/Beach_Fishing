@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TTS_Button
+  - Music_Button
+  - Sound_Button
+  - Loading_Sprite
+  - FishIcon
+  - Water
+  - Locked_100
+  - Locked_200
+  - Locked_400
+  - BF
+  - App
+  - UCV
+  - None
+  - Prop
+  - Ghost
+  - Spawnable
+  - Actor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Badges
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 752679505
+    locked: 0
+  - name: Background
+    uniqueID: 2246026565
+    locked: 0
+  - name: Foreground
+    uniqueID: 2162207309
+    locked: 0
+  - name: Props
+    uniqueID: 3264661533
+    locked: 0
+  - name: Player
+    uniqueID: 2181828805
+    locked: 0
+  - name: Fish
+    uniqueID: 883832657
+    locked: 0
+  - name: Dimmer
+    uniqueID: 1472480873
+    locked: 0
+  - name: Rain
+    uniqueID: 2231632533
+    locked: 0
+  - name: UI
+    uniqueID: 827079129
+    locked: 0
