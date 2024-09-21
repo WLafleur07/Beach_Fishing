@@ -1,0 +1,1 @@
+A game made with a partner of mine. This game was part of a larger app, and therefore, some of the components might not be up to date/ fully functional. The intention was to develop it further and have it as an independent project from the original app.
